@@ -1,4 +1,4 @@
 # spring-rest
 
-This is quick Spring Rest example project
+# This is quick Spring Rest example project
 
