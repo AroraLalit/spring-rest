@@ -6,6 +6,9 @@ Small Spring Restful example project
 2. Maven
 3. Tomcat 7 or later version
 
+# To see Logs
+1. Check logs under C:/Log/spring-test.log OR change the log director from log4j.properties.
+
 # Built With
 Maven - Dependency Management
 
