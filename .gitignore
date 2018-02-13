@@ -15,5 +15,5 @@ spring-test/.project
 *.project
 *.classpath
 *.settings
-/target/
+target/
 *.DS_Store
